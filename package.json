@@ -1,4 +1,15 @@
 {
-	"name": "@dev_john/tiny",
-	"version": "3.1.0"
+  "name": "@dev_john/tiny",
+  "version": "3.1.0",
+  "description": "this package has a tiny function that will remove whitespaces from a string.",
+  "license": "MIT",
+  "repository": "Arman-Ahmed-Jony/tiny.git",
+	"main": "index.js",
+	"keywords": [
+		"tiny",
+    "npm",
+    "package",
+		"dev",
+		"dev_john"
+	]
 }

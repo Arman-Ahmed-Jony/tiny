@@ -5,7 +5,7 @@ npm tiny package workshop. this removes spaces from a given string.
 
 ## Install
 
-```$npm install @dev_john/tiny```
+```$ npm install @dev_john/tiny```
 
 ## Usage
 
