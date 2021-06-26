@@ -3,7 +3,7 @@ ___
 ![npm (scoped)](https://img.shields.io/npm/v/@dev_john/tiny?style=plastic) ![issues](https://img.shields.io/github/issues/Arman-Ahmed-Jony/tiny?style=plastic) ![size](https://img.shields.io/bundlephobia/min/@dev_john/tiny?style=plastic)
 npm tiny package workshop. this removes spaces from a given string.
 
-##Install
+## Install
 
 ```$npm install @dev_john/tiny```
 
