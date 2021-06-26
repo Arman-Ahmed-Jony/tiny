@@ -1,6 +1,6 @@
 {
   "name": "@dev_john/tiny",
-  "version": "3.2.0",
+  "version": "4.0.0",
   "description": "this package has a tiny function that will remove whitespaces from a string.",
   "license": "MIT",
   "repository": "Arman-Ahmed-Jony/tiny.git",
